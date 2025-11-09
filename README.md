@@ -1,26 +1,23 @@
-# About Me — Suhaib Anwaar
+# Hi — I’m Suhaib Anwaar
 
-Welcome — this repository contains a lightweight personal "About Me" site and resources you can link from your GitHub profile.
+I’m a game developer and programmer transitioning from a Games degree into professional software and gameplay engineering roles. I focus on gameplay systems, game AI, and prototyping in Unity, and I enjoy experimenting with reinforcement learning and AR/VR prototypes.
 
-What’s included
-- index.html — a simple landing page with a short bio, links to projects, CV, and contact.
-- CV_SuhaibAnwaar.html — a printable HTML version of your CV.
-- assets/ — folder for images or icons (empty by default).
-- LICENSE — MIT license (optional).
+About me
+- Background: Degree in Games. Built multiple personal game prototypes and experimented with ML-driven gameplay systems.
+- Interests: Gameplay programming, AI for games, reinforcement learning, AR/VR, tools & prototyping.
+- Strengths: Rapid prototyping, problem solving, C# scripting in Unity, basic Python for ML experiments, version control, debugging.
 
-How to use
-- GitHub Profile: Add a link to the repository in your GitHub profile or enable GitHub Pages on the `main` branch to host the site.
-- Local preview: open `index.html` in a browser.
-- Edit content: update files and push changes.
+Key skills
+- Engines & languages: Unity, C#
+- AI & ML: Unity ML-Agents, reinforcement learning concepts, behavior trees, NavMesh/pathfinding
+- Other: Python (for experiments), Git, prototyping, performance debugging
+
+Work & study
+- Student projects and personal prototypes (Unity & ML experiments)
+- Part-time retail experience (customer service, teamwork, reliability)
 
 Contact
 - Email: suhaibmu@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/suhaib-anwaar-game-developer/
-- GitHub: https://github.com/SuhaibAnwaar
 
-If you'd like, I can:
-- Create the repository on your GitHub account and push these files.
-- Enable GitHub Pages (publishes site at `https://SuhaibAnwaar.github.io/about-me/`).
-- Add a custom domain, styling, or more pages (projects, blog, contact form).
-
-Confirm repository name, visibility (public/private), and whether to push now and I’ll do it.
+If you want the README text changed (shorter/longer, different tone, add education dates, or replace contact details), tell me what to update and I’ll revise it before pushing.
