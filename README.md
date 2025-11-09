@@ -20,4 +20,3 @@ Contact
 - Email: suhaibmu@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/suhaib-anwaar-game-developer/
 
-If you want the README text changed (shorter/longer, different tone, add education dates, or replace contact details), tell me what to update and I’ll revise it before pushing.
